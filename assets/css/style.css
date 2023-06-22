@@ -1211,6 +1211,11 @@ a, a:hover {
   background-color: #d30069;
 }
 
+@media (max-width: 767px) {
+  .contact-frm {
+    margin-right: 10px;
+  }
+}
 
 .map_sec {
   padding: 50px 0px;
