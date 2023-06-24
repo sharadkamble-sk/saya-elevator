@@ -946,6 +946,14 @@ a, a:hover {
   width: 100px;
 }
 
+@media (max-width: 767px) {
+  /* Mobile-specific styles */
+  .teamsaya {
+    margin-top: 200px;
+  }
+}
+
+
 @media screen and (min-width: 769px) {
   .postcard {
     flex-wrap: inherit;
